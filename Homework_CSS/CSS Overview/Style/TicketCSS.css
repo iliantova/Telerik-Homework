@@ -1,0 +1,51 @@
+body {
+    background-color:#504A4B;
+    font-family: sans-serif;
+}
+
+h1 {
+	color: gray;
+	display: block;
+	font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+table {
+    border: 0px;
+}
+
+td {	
+	width: 180px;
+	height: 30px;
+	vertical-align: text-top;
+
+}
+
+dd {
+	color: #E42217;
+	font-weight: bold;
+	margin-left: 0px;
+}
+.LeftCol {
+	color: #F1F2F2;
+	font-style: italic;
+	padding-top: 0px;
+}
+.Yellow {
+	color: #FFFF99;
+}
+.Gray {
+	color:#7D9292;
+}
+
+#NoAnswer {
+	color: #FF6600;
+}
+#circle:before {
+	color: #009900;
+    content: ' \25CF';
+    font-size: 30px;
+}

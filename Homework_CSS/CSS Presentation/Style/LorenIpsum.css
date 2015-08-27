@@ -1,0 +1,15 @@
+body {
+color: #0094ff;
+font-family: Consolas
+}
+
+p::first-letter { 
+    font-size: 3em;
+    font-family: Edwardian Script ITC;
+}
+
+p::first-line { 
+    font-size: 1.2em;
+    line-height: 2em;
+    font-style: bolt;
+}

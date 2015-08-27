@@ -1,0 +1,20 @@
+@import 'utils.styl'
+
+img-width = 250px
+img-height = 180px
+
+nav
+	position relative
+	img
+		width img-width
+		height img-height
+		display inline-block
+		&:hover
+			position absolute
+			top 200px
+			left 0
+			display block
+			width (img-width * 2)
+			height (img-height * 2)
+
+ 
