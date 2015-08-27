@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.pdb

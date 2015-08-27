@@ -1,0 +1,4 @@
+File Encodings. Reading in Cyrillic
+Let’s now consider the problems that occur when reading a file using an incorrect encoding, such as reading a file in Cyrillic.
+
+Character Encodings

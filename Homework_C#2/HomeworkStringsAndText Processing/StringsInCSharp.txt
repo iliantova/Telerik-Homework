@@ -1,0 +1,156 @@
+A string is an object of type String whose value is text. Internally, the text is stored as a sequential read-only collection of Char objects.
+ There is no null-terminating character at the end of a C# string; therefore a C# string can contain any number of embedded null characters ('\0').
+  The Length property of a string represents the number of Char objects it contains,
+ not the number of Unicode characters. To access the individual Unicode code points in a string, use the StringInfo object.
+ Strings. Nearly every program uses strings.
+In strings,
+we find characters,
+words
+and textual data. The string type allows us to test and manipulate character data.
+
+
+String face
+Methods. Here are the methods and properties on strings. Some are static. We access them on the string type (like string.Empty). Complex algorithms often use many string methods.
+
+Compare
+CompareOrdinal
+CompareTo
+Concat
+Contains
+Copy
+CopyTo
+EndsWith
+Empty
+Equals
+Format
+GetHashCode
+IndexOf
+IndexOfAny
+Insert
+Intern
+IsInterned
+IsNormalized
+IsNullOrEmpty
+IsNullOrWhiteSpace
+Join
+LastIndexOf
+LastIndexOfAny
+Length
+Normalize
+PadLeft
+PadRight
+Remove
+Replace
+Split
+StartsWith
+Substring
+ToCharArray
+ToLower
+ToLowerInvariant
+ToString
+ToUpper
+ToUpperInvariant
+Trim
+TrimEnd
+TrimStart
+
+Constructor: create new
+Constructor. Strings are often reused, and passed around within a program.
+Methods like Replace() create new strings. But we can also create new ones with a constructor.
+
+String Constructor
+
+
+Literals. These specify string data. We use quotes around literal data (characters).
+Literals are embedded in the program executable.
+
+Literal
+
+Convert
+Comparisons. Are two strings equal? In a Dictionary, we can use a StringComparer to 
+change how keys are compared. We can ignore case.
+
+StringComparer
+StringComparison
+
+Int
+Parse, TryParse. These transform strings into other types. 
+Many parsing routines are built-in. Usually it is a bad idea to create our own if one already exists.
+
+DateTime.Parse
+Enum.Parse
+int.Parse
+Hex Format
+
+Squares: grey
+TextInfo. This type provides some helpful methods. We can convert a string To Title Case with ToTitleCase.
+No custom methods are needed.
+
+TextInfo
+TextInfo: ToTitleCase
+
+Newline
+Whitespace. Strings often contain newline or whitespace. We often need to check for these values.
+We use methods like IsNullOrWhitespace.
+
+NewLine
+Line Count
+Whitespace
+
+None
+Empty. An empty string has zero characters. Meanwhile a null string is no string at all. It is a reference that points to no memory location.
+
+Empty Strings
+Null Strings
+
+Char type example: letter C
+Chars. A string contains data made up of individual characters.
+ We deal with these chars in looping constructs. Accessing chars is a fast way to test strings.
+
+Char
+String Chars
+
+Loop
+Loops. We can loop over a string with any style of loop. 
+When no index is required, a foreach-loop will result in the clearest code.
+
+Foreach
+For, string
+
+Performance
+Performance. In typical usage strings are fast. But they are sometimes used in an inefficient way.
+Often reducing string allocations is helpful.
+
+Memory Usage
+Equals Performance
+ToString Cache
+ToString Formats
+IsUpper, IsLower
+
+Method
+Custom methods. Many string algorithms are composed from the built-in methods.
+ With Substring calls we can Truncate strings. With ToCharArray we can change characters.
+
+Truncate
+Right
+Uppercase First Letters
+Change Characters
+
+About part
+Explanations. I explain concepts of strings.
+How do we append strings when there is no append method? We also learn to increment strings.
+
+String Append
+String Increment
+String Property
+
+StringBuilder
+StringBuilder. This is not a string,
+but it is used to build up
+or change strings. For appending strings in a loop, we likely want to use StringBuilder.
+
+StringBuilder
+
+Summary: 300, 200 and 100
+A string is immutable. It can be used in many methods, and none of them have to worry about 
+data changes. It never becomes invalid. This reduces copies and makes programs more robust.

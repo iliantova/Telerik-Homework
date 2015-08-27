@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CountWords\bin\Debug\CountWords.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CountWords\bin\Debug\CountWords.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CountWords\obj\Debug\CountWords.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\CountWords\obj\Debug\CountWords.pdb

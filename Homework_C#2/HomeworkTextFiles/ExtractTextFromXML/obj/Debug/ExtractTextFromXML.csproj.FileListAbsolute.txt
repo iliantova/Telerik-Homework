@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb

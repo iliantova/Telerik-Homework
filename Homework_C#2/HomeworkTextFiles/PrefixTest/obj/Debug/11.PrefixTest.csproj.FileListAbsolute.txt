@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\PrefixTest\bin\Debug\PrefixTest.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\PrefixTest\bin\Debug\PrefixTest.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\PrefixTest\bin\Debug\PrefixTest.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\PrefixTest\obj\Debug\PrefixTest.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\PrefixTest\obj\Debug\PrefixTest.pdb

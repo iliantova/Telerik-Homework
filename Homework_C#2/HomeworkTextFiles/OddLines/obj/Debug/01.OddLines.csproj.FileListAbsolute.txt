@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\OddLines\bin\Debug\OddLines.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\OddLines\bin\Debug\OddLines.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\OddLines\obj\Debug\OddLines.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\OddLines\obj\Debug\OddLines.pdb

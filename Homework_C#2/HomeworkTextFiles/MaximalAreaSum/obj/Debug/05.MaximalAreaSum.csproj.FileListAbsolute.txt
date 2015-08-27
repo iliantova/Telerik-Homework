@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkTextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.pdb

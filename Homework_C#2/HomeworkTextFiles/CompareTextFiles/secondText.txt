@@ -1,0 +1,10 @@
+File Encodings. Reading in Cyrillic
+Let’s now consider the problems that occur when reading a file using an incorrect encoding,
+such as reading a file in Cyrillic.
+
+Character Encodings
+Having read everything until now, you are probably a bit confused. We already explained that
+ reading and writing to and from text files is only and exclusively possible with streams,
+ but StreamReader did not appear anywhere in the above-mentioned streams and you are not sure whether
+Let’s now consider the problems that occur when reading a file using an incorrect encoding,
+such as reading a file in Cyrillic.

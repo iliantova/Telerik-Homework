@@ -1,0 +1,3 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\HomeworkArrays\AllocateArrayhome\bin\Debug\AllocateArrayhome.exe.config
+D:\Telerik\Telerik_domashni_C#2\HomeworkArrays\AllocateArrayhome\bin\Debug\AllocateArrayhome.exe.config
+D:\Telerik\C#2\Telerik_domashni_C#2\HomeworkArrays\AllocateArrayhome\bin\Debug\AllocateArrayhome.exe.config

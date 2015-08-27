@@ -1,0 +1,9 @@
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\obj\Debug\03.SequenceMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.pdb
+D:\Telerik\Telerik_domashni_C#2\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.exe.config
+D:\Telerik\Telerik_domashni_C#2\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.exe
+D:\Telerik\Telerik_domashni_C#2\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.pdb
