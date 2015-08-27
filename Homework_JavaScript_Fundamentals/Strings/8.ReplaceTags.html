@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>8.ReplaceTags</title>
+	<style>
+	input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+		a:hover{
+			text-decoration:underline;
+		}
+		</style>
+</head>
+<body>
+<label>Replace tags</label>
+<br />
+<label for="tb-first">Enter a HTML document given as string</label>
+	<input type="text" id="tb-first"/>
+	<br />
+	<a href="#" onclick="replaceTags()">Replace tags</a>
+<div id="console"></div>
+	<script src="js-console.js"></script>
+	<script src="8.ReplaceTags.js"></script>
+</body>
+</html>

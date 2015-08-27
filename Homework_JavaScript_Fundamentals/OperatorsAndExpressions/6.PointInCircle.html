@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>6.PointInCircle</title>
+	<style>
+	input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+		a:hover{
+			text-decoration:underline;
+		}
+		</style>
+</head>
+<body>
+<label for="tb-first">Point X: </label>
+	<input type="text" id="tb-first"/>
+	<br />
+	<label for="tb-second">Point Y: </label>
+	<input type="text" id="tb-second"/>
+	<br />
+	<a href="#" onclick="PointIn()">Check</a>
+<div id="console"></div>
+	<script src="js-console.js"></script>
+	<script src="6.PointInCircle.js"></script>
+</body>
+</html>
