@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fresh Fruit</title>
+	<meta charset="UTF-8">
+<meta name="description" content="Problem 1. HTML Tables">
+<meta name="keywords" content="HTML,Telerik,Homework">
+<meta name="author" content="az">
+</head>
+<body>
+<table border="1">
+<form>
+<tfoot>
+				<tr>
+					<td id="tableFooter" colspan="2">
+						<input type="submit" value="Submit">
+						<button>Clean this form</button>
+					</td>
+				</tr>
+			</tfoot>
+<tr>
+	<td>Last name</td>
+	<td><input type="text" name="lastname"></td>
+</tr>
+<tr>
+	<td>First name</td>
+	<td><input type="text" name="firstnamelastname"></td>
+</tr>
+<tr>
+	<td>Address</td>
+	<td><textarea rows="4" cols="30"></textarea></td>
+</tr>
+<tr>
+	<td>City</td>
+	<td><input type="text" name="city"> State <input type="text" name="state"></td>
+</tr>
+<tr>
+	<td>Zip/Postal Code</td>
+	<td><input type="text" name="city"> </td>
+</tr>
+<tr>
+	<td>Country</td>
+	<td><input list="Country" name="country">
+  <datalist id="Country">
+    <option value="Bulgaria">
+    <option value="England">
+    <option value="Chily">
+  </datalist></td>
+
+</tr>
+
+<tr>
+	<td>Phone(country code,<br>area code, number)</td>
+	<td>(+<input type="number" name="code">)<input type="number" name="areacode" > <input type="number" name="number"></td>
+</tr>
+<tr>
+	<td>E-mail</td>
+	<td><input type="email" name="email"></td>
+</tr>
+<tr>
+	<td>Birth date</td>
+	<td><input type="date" name="bday"></td>
+</tr>
+<tr>
+	<td>Gender</td>
+	<td><input list="Gender" name="gender">
+  <datalist id="Gender">
+    <option value="Male">
+    <option value="Female"></td>
+</tr>
+<tr>
+	<td>Starting date</td>
+	<td><input type="radio" name="starting" value="spring" checked>Spring 2015<input type="radio" name="starting" value="summer">Summer 2015</td>
+</tr>
+<tr>
+	<td>Comments/Questions</td>
+	<td><textarea rows="8" cols="50"></textarea></td>
+</tr>
+</form>
+</table>
+</body>
+</html>
