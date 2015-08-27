@@ -1,0 +1,6 @@
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe.config
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.pdb
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\obj\Debug\14.DecimalBinaryNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.exe
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.pdb

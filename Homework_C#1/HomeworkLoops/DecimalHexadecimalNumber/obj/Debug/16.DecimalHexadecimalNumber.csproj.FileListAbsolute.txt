@@ -1,0 +1,1 @@
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\DecimalHexadecimalNumber\bin\Debug\DecimalHexadecimalNumber.exe.config

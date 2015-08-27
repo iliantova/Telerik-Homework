@@ -1,0 +1,5 @@
+C# is a programming language, .NET is a blanket term that tends to cover both the .NET Framework (an application framework library) and the Common Language Runtime which is the runtime in which .NET assemblies are run.
+Microsoft's implementation of C# is heavily integrated with the .NET Framework . 
+.NET is library of code that .NET languages can talk to.
+.NET languages come in different flavours such as: C#.NET, VB.NET, Managed C++, F#.
+.NET languages compile to CIL ([Common Intermediate Language][1]) which means they all start "talking" the same language and can therefore interoperate.

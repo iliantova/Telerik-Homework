@@ -1,0 +1,6 @@
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\bin\Debug\RandomNumbersGivenRange.exe.config
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\bin\Debug\RandomNumbersGivenRange.exe
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\bin\Debug\RandomNumbersGivenRange.pdb
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\obj\Debug\11.RandomNumbersGivenRange.csprojResolveAssemblyReference.cache
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\obj\Debug\RandomNumbersGivenRange.exe
+D:\Telerik\Telerik_domashni_C#1\HomeworkLoops\HomeworkLoops\RandomNumbersGivenRange\obj\Debug\RandomNumbersGivenRange.pdb
